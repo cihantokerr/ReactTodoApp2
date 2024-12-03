@@ -1,0 +1,14 @@
+#task-body{
+    height: 4rem;
+    border: 0.05rem solid #d3d3d3;
+}
+
+
+#task-body>#text-div{
+    height: 4rem;
+}
+
+
+#task-body>#delete-button-div{
+    height: 4rem;
+}
